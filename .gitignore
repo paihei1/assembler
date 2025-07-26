@@ -1,0 +1,5 @@
+/target
+*.s
+!example.s
+*.o
+*.so
